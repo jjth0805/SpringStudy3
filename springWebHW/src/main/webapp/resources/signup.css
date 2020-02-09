@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+table.entryForm{
+	width:100%;
+    border: #ffffff px solid;
+    border-collapse: collapse;
+}
